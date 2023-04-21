@@ -1,0 +1,45 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
+
+
+    /* Small devices (phones, 576px and up) */
+
+    @media (min-width: 76px) { 
+  .navbar-brand {
+    font-size: 11px;
+    white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+  }
+}
+
+@media (min-width: 576px) { 
+  .navbar-brand {
+    font-size: 12px;
+    white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+  .navbar-brand {
+    font-size: 15px;
+    white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+  .navbar-brand {
+    font-size: 22px;
+  }
+}

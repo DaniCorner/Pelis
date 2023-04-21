@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(to bottom, #262626 0%, #000000 100%);
+}
+
+.comment-table {
+  margin-bottom: 0;
+}
+@media (max-width: 767px) {
+  .comment-table td,
+  .comment-table th {
+    display: block;
+    width: 100%;
+  }
+  .comment-table td:first-child,
+  .comment-table th:first-child {
+    margin-top: 20px;
+  }
+  .comment-table td:last-child,
+  .comment-table th:last-child {
+    margin-bottom: 20px;
+  }
+}

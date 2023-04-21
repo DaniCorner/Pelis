@@ -1,0 +1,57 @@
+
+.card-header.futurible {
+    background-color: #ffbb33;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    }
+    
+    body.futurible {
+        background-color: #FFA07A;
+        color: #333;
+        font-family: 'Open Sans', sans-serif;
+      }
+      
+    
+      .form-control.futurible {
+        background-color: #fff7e6;
+        border: none;
+        color: #333;
+      }
+      
+      .form-control:focus.futurible {
+        box-shadow: none;
+        border: none;
+      }
+      
+      .btn-primary.futurible {
+        background-color: #ffbb33;
+        border: none;
+      }
+      
+      .btn-primary:hover.futurible {
+        background-color: #ffc966;
+        border: none;
+      }
+      
+      .card.futurible {
+        border: none;
+        background-color: #fff7e6;
+      }
+      
+    
+      
+      .alert-danger.futurible {
+        background-color: #cc3300;
+        border: none;
+        color: #fff;
+      }
+      
+      .alert-danger.futurible a.futurible {
+        color: #fff;
+        text-decoration: underline;
+      }
+      
+      .alert-danger.futurible a:hover.futurible {
+        text-decoration: none;
+      }
+    

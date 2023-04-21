@@ -1,0 +1,149 @@
+/* LOGIN */
+body {
+    background-color: #141f2a;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+label {
+    font-weight: bold;
+}
+
+.form-control {
+    background-color: #1f2d3d;
+    border: none;
+    color: #fff;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border: none;
+}
+
+.btn-primary {
+    background-color: #c0392b;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #e74c3c;
+    border: none;
+}
+
+.card {
+    border: none;
+    background-color: #1f2d3d;
+}
+
+.card-header {
+    background-color: #2c3e50;
+    border-bottom: none;
+    font-size: 1.5rem;
+}
+
+.alert-danger {
+    background-color: #c0392b;
+    border: none;
+    color: #fff;
+}
+
+.alert-danger a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.alert-danger a:hover {
+    text-decoration: none;
+}
+
+.register {
+    margin-top: 3rem;
+}
+
+.register h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.register label {
+    margin-bottom: 0.5rem;
+}
+
+.register .form-control {
+    margin-bottom: 1.5rem;
+}
+
+.register .btn-primary {
+    margin-top: 1.5rem;
+}
+.text-muted{
+ margin-left: 4px;   
+
+}
+
+/* REGISTRO */
+
+
+ 
+  
+ 
+
+body.futurible {
+    background-color: #FFA07A;
+    color: #333;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+
+  .form-control.futurible {
+    background-color: #fff7e6;
+    border: none;
+    color: #333;
+  }
+  
+  .form-control:focus.futurible {
+    box-shadow: none;
+    border: none;
+  }
+  
+  .btn-primary.futurible {
+    background-color: #ffbb33;
+    border: none;
+  }
+  
+  .btn-primary:hover.futurible {
+    background-color: #ffc966;
+    border: none;
+  }
+  
+  .card.futurible {
+    border: none;
+    background-color: #fff7e6;
+  }
+  
+
+  
+  .alert-danger.futurible {
+    background-color: #cc3300;
+    border: none;
+    color: #fff;
+  }
+  
+  .alert-danger.futurible a.futurible {
+    color: #fff;
+    text-decoration: underline;
+  }
+  
+  .alert-danger.futurible a:hover.futurible {
+    text-decoration: none;
+  }
+  
+  
+
+  
+ 
